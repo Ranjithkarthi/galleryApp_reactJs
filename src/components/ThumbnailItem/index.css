@@ -1,0 +1,20 @@
+/* Write your code here. */
+.list-style {
+  list-style-type: none;
+}
+
+.thumbnail-size {
+  height: 80px;
+  margin-left: 12px;
+}
+
+.btn {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 0;
+}
+
+.active-on {
+  opacity: 0.5;
+}
